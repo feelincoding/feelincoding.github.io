@@ -49,6 +49,14 @@ sidebar-category:
     - title: "프로그래머스"
       url: "/algorithm/programmers"
       category: "algorithm-programmers"
+  - title: "🗂️ Project"
+    # url: "/algorithm"
+    category: "project"
+    children:
+    - title: "오픈매트"
+      url: "/project/openmat"
+      category: "project-openmat"
+    
   #     children:
   #     - title: "CPU"
   #       url: "/computing/computer/cpu/"
