@@ -12,14 +12,14 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Categories"
+  #   url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
+  # - title: "Pages"
+  #   url: /page-archive/
   # - title: "Collections"
   #   url: /collection-archive/
   # - title: "External Link"
