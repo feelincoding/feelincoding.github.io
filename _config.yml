@@ -287,6 +287,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      toc: true         # 현재 페이지의 목차 보기 활성화
+      sidebar:          # (내 커스텀 변수) 블로그 목차 보기
+        nav: main-sidebar   # (내 커스텀 변수) /_data/navigation.yml에 main-sidebar의 내용을 정의
