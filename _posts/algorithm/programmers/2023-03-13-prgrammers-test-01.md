@@ -8,9 +8,9 @@ categories:
     - algorithm-programmers
 tags:
     - algorithm-programmers
-toc_label: "목차"
-toc: true
-toc_sticky: true
+# toc_label: "목차"
+# toc: true
+# toc_sticky: true
 ---
 프로그래머스 테스트
 ---

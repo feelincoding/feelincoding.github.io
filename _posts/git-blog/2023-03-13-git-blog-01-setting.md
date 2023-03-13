@@ -9,9 +9,9 @@ categories:
 tags:
     - Git Blog
     - 개발환경 세팅
-toc_label: "목차"
-toc: true
-toc_sticky: true
+# toc_label: "목차"
+# toc: true
+# toc_sticky: true
 ---
 # 01. 개발 환경 세팅 및 실행
 
@@ -23,7 +23,7 @@ toc_sticky: true
 설치하는 이유는 로컬에서 개발하기 편할라고 하는거니까.
 아래의 로컬 환경에서 실행만 잘되면 된다.
 
-- Mac
+- ### Mac
     1. homebrew install: terminal 에 입력하여 homebrew 를 설치한다.
     (사이트 참조: [https://brew.sh/index_ko](https://brew.sh/index_ko))
     **/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"**
@@ -53,7 +53,7 @@ toc_sticky: true
     를 ~/.zshrc 에 추가해준다.
     7. jekyll -v: jekyll 4.2.0, bundler -v: Bundler version 2.2.24임을 확인할 수 있다.
     8. gem 으로 install 한 것들을 다 날리고 싶다면 gem uninstall -aIx 또는 gem uninstall —aIl
-- Window
+- ### Window
     1. ruby 설치
         1. [https://rubyinstaller.org/downloads/](https://rubyinstaller.org/downloads/) 에서 추천하는 버전 설치
             1. 난 이거 설치함 → **Ruby+Devkit 3.1.3-1 (x64)**
