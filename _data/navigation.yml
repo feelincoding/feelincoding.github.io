@@ -32,14 +32,14 @@ main:
 # [권장]
 # 1. CSS 적용 문제로 children 깊이는 2까지만 하는것을 권장. 즉, children의 children까지만.
 sidebar-category:
-  - title: "Git Blog"
+  - title: "🐱‍👤 Git Blog"
     # url: "/git-blog"
     # category: "git-blog"
     children:
     - title: "블로그 만들기"
       url: "/git-blog"
       category: "git-blog"
-  - title: "Algorithm"
+  - title: "💡 Algorithm"
     # url: "/algorithm"
     category: "algorithm"
     children:
