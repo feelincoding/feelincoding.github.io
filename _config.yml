@@ -117,7 +117,7 @@ author:
   name             : "feelincoding" # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "" # "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Republic of Korea" # "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -134,7 +134,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/feelincoding"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
