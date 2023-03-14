@@ -105,4 +105,4 @@ tags:
 
 [minimal-mistakes-url]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 [git-blog-01]: https://feelincoding.github.io/git-blog/git-blog-01-setting/
-[git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
+[git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-03-minimal-mistake-basic/

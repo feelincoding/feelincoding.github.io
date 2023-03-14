@@ -25,9 +25,21 @@ tags:
 > 설치하는 이유는 로컬에서 개발하기 편할라고 하는거니까.
 > 아래의 로컬 환경에서 실행만 잘되면 된다.
 
-### 1.1 Mac
+### 1.1 Window
 
-- homebrew install: terminal 에 입력하여 homebrew 를 설치한다.
+- ruby 설치
+  - [https://rubyinstaller.org/downloads/](https://rubyinstaller.org/downloads/) 에서 추천하는 버전 설치
+  - 난 이거 설치함 → **Ruby+Devkit 3.1.3-1 (x64)**
+  - Which componets shall be installed? If unsure press Enter [1,3] 뜨면 → 3
+  - ruby -v, gem -v 명령어 입력으로 설치확인
+- jeykll, bundler 설치
+  - gem install jekyll bundler
+### 1.2 Mac(수정 예정)
+- ruby 설치: 
+  - brew install ruby
+- jeykll, bundler 설치
+  - gem install jekyll bundler
+<!-- - homebrew install: terminal 에 입력하여 homebrew 를 설치한다.
   (사이트 참조: [https://brew.sh/index_ko](https://brew.sh/index_ko))
   **/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"**
 - **brew install rbenv**: mac 은 기본적으로 ruby 가 설치되어 있다. 이에 따라 알맞은 버전의 ruby 를 설치하고 경우에 따라 원하는 버전의 ruby 를 사용해야할 일이 있을 수 있는데 rbenv 를 이용해 ruby 설치 및 버전관리를 진행한다. 터미널에 brew install rbenv 입력하여 다운.
@@ -55,17 +67,8 @@ tags:
   eval "$(rbenv init -)"
   를 ~/.zshrc 에 추가해준다.
 - jekyll -v: jekyll 4.2.0, bundler -v: Bundler version 2.2.24임을 확인할 수 있다.
-- gem 으로 install 한 것들을 다 날리고 싶다면 gem uninstall -aIx 또는 gem uninstall —aIl
+- gem 으로 install 한 것들을 다 날리고 싶다면 gem uninstall -aIx 또는 gem uninstall —aIl -->
 
-### 1.2 Window
-
-- ruby 설치
-  - [https://rubyinstaller.org/downloads/](https://rubyinstaller.org/downloads/) 에서 추천하는 버전 설치
-  - 난 이거 설치함 → **Ruby+Devkit 3.1.3-1 (x64)**
-  - Which componets shall be installed? If unsure press Enter [1,3] 뜨면 → 3
-  - ruby -v, gem -v 명령어 입력으로 설치확인
-- jeykll, bundler 설치
-  - gem install jekyll bundler
 
 ## 2. 로컬 환경에서 실행
 
