@@ -75,6 +75,6 @@ tags:
 
 ### RECOMMEND NEXT POSTS
 
-[[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
+- [[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
 
 [git-blog-02]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
