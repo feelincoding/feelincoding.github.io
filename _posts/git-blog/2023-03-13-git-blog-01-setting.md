@@ -7,7 +7,7 @@ categories:
   - git-blog
 tags:
   - Git Blog
-  - 개발환경 세팅
+  - Setting
 # toc_label: "목차"
 # toc: true
 # toc_sticky: true

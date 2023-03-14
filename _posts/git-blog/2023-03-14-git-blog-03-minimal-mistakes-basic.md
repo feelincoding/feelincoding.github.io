@@ -109,9 +109,9 @@ defaults:
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 04. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-04]
+- [[Git Blog] - 04. 첫 게시글 작성하기][git-blog-04]
 
 [git-blog-02]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
-[git-blog-04]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
+[git-blog-04]: https://feelincoding.github.io/git-blog/git-blog-04-first-posts/
 
 ### REFERENCE
