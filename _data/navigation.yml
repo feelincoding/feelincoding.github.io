@@ -12,10 +12,10 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
-  # - title: "Posts"
-  #   url: /year-archive/
-  # - title: "Categories"
-  #   url: /categories/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
   - title: "Tags"
     url: /tags/
   # - title: "Pages"
@@ -56,7 +56,7 @@ sidebar-category:
     - title: "오픈매트"
       url: "/project/openmat"
       category: "project-openmat"
-    
+
   #     children:
   #     - title: "CPU"
   #       url: "/computing/computer/cpu/"

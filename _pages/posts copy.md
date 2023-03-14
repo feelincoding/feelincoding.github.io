@@ -1,7 +1,7 @@
 ---
-title: "Tags"
-permalink: /tags/
-layout: tags
+title: "Categories"
+permalink: /categories/
+layout: categories
 author_profile: true
 sidebar:
     nav: "sidebar-category"
