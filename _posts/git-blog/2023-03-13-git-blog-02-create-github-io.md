@@ -93,9 +93,9 @@ tags:
 
 ### 3.2 github.io에서 확인하기
 
--여기까지 완료한 commit & push 하고 본인의 username.github.io 를 들어가보면 블로그가 만들어진 것을 확인할 수 있다.
+- 여기까지 완료한 commit & push 하고 본인의 username.github.io 를 들어가보면 블로그가 만들어진 것을 확인할 수 있다.
 
--다만, username.github.io 에서 계속 확인하면 적용이 느리니 bundle install, bundle exec jekyll serve 를 통해 로컬에서 빠르게 확인하면서 블로그를 만들도록 하자.
+- 다만, username.github.io 에서 계속 확인하면 적용이 느리니 bundle install, bundle exec jekyll serve 를 통해 로컬에서 빠르게 확인하면서 블로그를 만들도록 하자.
 
 ## CLOSING
 
