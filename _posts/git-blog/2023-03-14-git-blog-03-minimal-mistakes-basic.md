@@ -19,6 +19,7 @@ tags:
 - [[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
 
 ## 0. 들어가면서
+> _config.yml 파일 수정 만으로 기본적인 블로그의 모습을 바꿀 수 있다.
 
 ## 1. 들어가면서
 

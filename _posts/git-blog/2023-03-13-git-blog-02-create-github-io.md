@@ -104,5 +104,5 @@ tags:
 - [[Git Blog] - 03. minimal mistakes 기초][git-blog-03]
 
 [minimal-mistakes-url]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-[git-blog-01]: https://feelincoding.github.io/git-blog/git-blog-01-create-github-io/
+[git-blog-01]: https://feelincoding.github.io/git-blog/git-blog-01-setting/
 [git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
