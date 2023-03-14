@@ -14,7 +14,7 @@ tags:
 
 <br/>
 
-#### RECOMMEND POSTS BEFORE THIS
+### RECOMMEND POSTS BEFORE THIS
 
 ## 0. 들어가면서
 
@@ -28,6 +28,6 @@ tags:
 
 ## CLOSING
 
-#### RECOMMEND NEXT POSTS
+### RECOMMEND NEXT POSTS
 
-#### REFERENCE
+### REFERENCE
