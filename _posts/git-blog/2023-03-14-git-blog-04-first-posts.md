@@ -39,7 +39,8 @@ feelincoding.github.io
 > 2023-03-13-test.md 에 대한 작성법이다.
 
 ```yml
---- # ---로 둘러싸인 부분은 front matter라고 한다. front matter는 jekyll에서 사용되는 부분이다.
+---
+# ---로 둘러싸인 부분은 front matter라고 한다. front matter는 jekyll에서 사용되는 부분이다.
 layout: single # 기본적으로 post는 single로 설정한다.
 title: "test" # 게시글 제목
 date: "2023-03-13 00:00:00 +0900" # 게시글 작성일
@@ -48,8 +49,8 @@ categories: # 카테고리
   - test
 tags: # 태그
   - test
---- # 이 아래부터는 마크다운으로 작성한다.(실제 게시글 내용)
-
+# 이 아래부터는 마크다운으로 작성한다.(실제 게시글 내용)
+---
 # 1. 첫번째 게시글
 
 - 첫번째 게시글입니다.
