@@ -14,7 +14,7 @@ tags:
 
 <br/>
 
-### RECOMMEND POSTS BEFORE THIS
+## RECOMMEND POSTS BEFORE THIS
 
 - [[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
 
@@ -31,7 +31,7 @@ tags:
 
 ## CLOSING
 
-### RECOMMEND NEXT POSTS
+## RECOMMEND NEXT POSTS
 
 - [[Git Blog] - 04. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-04]
 

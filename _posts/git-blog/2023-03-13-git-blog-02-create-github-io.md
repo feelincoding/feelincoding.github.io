@@ -14,7 +14,7 @@ tags:
 
 <br/>
 
-### RECOMMEND BEFORE POSTS
+## RECOMMEND BEFORE POSTS
 
 - [[Git Blog] - 01. 개발 환경 세팅 및 실행][git-blog-01]
 
@@ -99,7 +99,7 @@ tags:
 
 ## CLOSING
 
-### RECOMMEND NEXT POSTS
+## RECOMMEND NEXT POSTS
 
 - [[Git Blog] - 03. minimal mistakes 기초][git-blog-03]
 
