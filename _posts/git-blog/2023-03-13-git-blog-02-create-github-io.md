@@ -1,9 +1,8 @@
 ---
-layout: single # 페이지에 single 레이아웃을 적용
-title: "[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)" # 페이지 타이틀
-# post-order: 8                                  # (내 커스텀 변수) 같은 카테고리 내 정렬 순서
-date: "2023-03-13 00:01:00 +0900" # 최초 포스팅 날짜. 별도 정렬 순서가 없으면 이 값으로 정렬됨. 파일명에 기록되어있다면 생략 가능.
-last_modified_at: "2023-03-13 00:01:00 +0900" # 마지막 수정 날짜.
+layout: single
+title: "[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)"
+date: "2023-03-13 00:01:00 +0900"
+last_modified_at: "2023-03-13 00:01:00 +0900"
 categories:
   - git-blog
 tags:
@@ -13,18 +12,28 @@ tags:
 # toc_sticky: true
 ---
 
-# 02. github.io 만들기 및 theme 적용(minimal mistakes)
+<br/>
 
-> 다양한 theme이 존재하지만 개인적으로 minimal mistakes가 가장 좋아 보인다. ([https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/))
+### RECOMMEND BEFORE POSTS
 
-## git repo 생성
+- [[Git Blog] - 01. 개발 환경 세팅 및 실행][git-blog-01]
 
-- https://github.com/mmistakes/minimal-mistakes fork 하기
-  - fork 하게 되면 Owner: 본인 아이디, Repository name: minimal-mistakes 로 fork 된다.
-  - Repository name: username.github.io 로 수정한다.
-    - ex) feelincoding.github.io
+## 0. 들어가면서
 
-## minimal mistakes 적용하기
+> 다양한 jekyll의 theme이 존재하지만 개인적으로 minimal mistakes가 가장 좋아 보인다. ([minimal-mistakes][minimal-mistakes-url])
+> 제일 자료가 많고 구글링 하기 편한 듯 하여 선택했다.
+
+## 1. git repo 생성
+
+### 1.1 [minimal-mistakes][minimal-mistakes-url] fork 하기
+
+- fork 하게 되면 Owner: 본인 아이디, Repository name: minimal-mistakes 로 fork 된다.
+- Repository name: username.github.io 로 수정한다.
+  - e.g) feelincoding.github.io
+
+## 2. [minimal-mistakes][minimal-mistakes-url] 초기 세팅 하기
+
+### 2.1 파일 정리
 
 - 본인의 repo를 clone 한 후 아래의 파일을 삭제한다.
   - `.editorconfig`
@@ -37,6 +46,9 @@ tags:
   - `README.md`
   - `screenshot-layouts.png`
   - `screenshot.png`
+
+### 2.2 Gemfile 수정
+
 - Gemfile 수정: 아래와 같은 내용으로 수정한다.
 
   ```ruby
@@ -71,13 +83,26 @@ tags:
   end
   ```
 
-- 아래 명령어 입력 후 실행 확인
-  - bundle install
-  - bundle exec jekyll serve
-  - localhost:4000 접속
+## 3. [minimal-mistakes][minimal-mistakes-url] 적용 확인 하기
 
----
+### 3.1 로컬에서 확인하기
 
-여기까지 완료한 commit & push 하고 본인의 username.github.io 를 들어가보면 블로그가 만들어진 것을 확인할 수 있다.
+- bundle install
+- bundle exec jekyll serve
+- localhost:4000 접속
 
-다만, username.github.io 에서 계속 확인하면 적용이 느리니 bundle install, bundle exec jekyll serve 를 통해 로컬에서 빠르게 확인하면서 블로그를 만들도록 하자.
+### 3.2 github.io에서 확인하기
+
+-여기까지 완료한 commit & push 하고 본인의 username.github.io 를 들어가보면 블로그가 만들어진 것을 확인할 수 있다.
+
+-다만, username.github.io 에서 계속 확인하면 적용이 느리니 bundle install, bundle exec jekyll serve 를 통해 로컬에서 빠르게 확인하면서 블로그를 만들도록 하자.
+
+## CLOSING
+
+### RECOMMEND NEXT POSTS
+
+- [[Git Blog] - 03. minimal mistakes 기초][git-blog-03]
+
+[minimal-mistakes-url]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+[git-blog-01]: https://feelincoding.github.io/git-blog/git-blog-01-create-github-io/
+[git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/

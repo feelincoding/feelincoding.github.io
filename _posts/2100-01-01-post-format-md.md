@@ -14,7 +14,7 @@ tags:
 
 <br/>
 
-### RECOMMEND POSTS BEFORE THIS
+### RECOMMEND BEFORE POSTS
 
 ## 0. 들어가면서
 
