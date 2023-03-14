@@ -36,24 +36,24 @@ sidebar-category:
     # url: "/git-blog"
     # category: "git-blog"
     children:
-    - title: "블로그 만들기"
+    - title: "- 블로그 만들기"
       url: "/git-blog"
       category: "git-blog"
   - title: "💡 Algorithm"
     # url: "/algorithm"
     category: "algorithm"
     children:
-    - title: "백준"
+    - title: "- 백준"
       url: "/algorithm/baekjoon"
       category: "algorithm-baekjoon"
-    - title: "프로그래머스"
+    - title: "- 프로그래머스"
       url: "/algorithm/programmers"
       category: "algorithm-programmers"
   - title: "🗂️ Project"
     # url: "/algorithm"
     category: "project"
     children:
-    - title: "오픈매트"
+    - title: "- 오픈매트"
       url: "/project/openmat"
       category: "project-openmat"
 
