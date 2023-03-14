@@ -63,7 +63,7 @@ tags: # 태그
 
 ## 2. 게시글 확인
 <img src="./images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png" width="100">
-
+![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png)
 ## CLOSING
 
 > 다음 게시글에서는 상단바와 사이드바를 만들어보자.
