@@ -62,15 +62,24 @@ tags: # 태그
 - categories, tags는 필수가 아니다. 다만, 추후에 상단바, 사이드바 구현시 사용된다.
 
 ## 2. 게시글 확인
-<img src="./images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png" width="100">
+
+> 사진을 보면 사이드바, 상단바 등이 존재하지만 이는 추후에 구현할 것이다.
+
+### 2.1 게시글 목록 확인
+
+![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-02.png)
+
+### 2.2 게시글 내용 확인
+
 ![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png)
+
 ## CLOSING
 
 > 다음 게시글에서는 상단바와 사이드바를 만들어보자.
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 05. 상단 nav, 사이드바(side-nav-bar) 만들기][git-blog-05]
+- [[Git Blog] - 05. 상단바(nav), 사이드바(sidebar) 만들기][git-blog-05]
 
 [git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-03-minimal-mistake-basic/
 [git-blog-05]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
