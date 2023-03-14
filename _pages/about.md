@@ -48,3 +48,11 @@ toc_sticky: true
 <img alt="AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>&nbsp;
 </p>
 
+<script src="https://utteranc.es/client.js"
+        repo="feelincoding/feelincoding.github.io"
+        issue-term="pathname"
+        label="comments-utterances"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
