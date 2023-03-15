@@ -61,7 +61,6 @@ toc_sticky: true
 <script src="https://utteranc.es/client.js"
         repo="feelincoding/feelincoding.github.io"
         issue-term="pathname"
-        label="comments-utterances"
         theme="github-dark"
         crossorigin="anonymous"
         async>

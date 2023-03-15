@@ -94,7 +94,3 @@ tags:
 [github-blog-08]: https://feelincoding.github.io/github-blog/github-blog-06-sidebar/
 
 ### REFERENCE
-
-```
-
-```
