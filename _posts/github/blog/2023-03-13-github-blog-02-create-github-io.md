@@ -25,7 +25,14 @@ tags:
 
 ## 1. git repo 생성
 
-### 1.1 [minimal-mistakes][minimal-mistakes-url] fork 하기
+### 1.1 [minimal-mistakes][minimal-mistakes-url] clone 하기
+
+- fork를 하면 잔디가 안심어진다!!
+- Repository name: username.github.io 로 repo를 만든다.
+  - e.g) feelincoding.github.io
+- [minimal-mistakes][minimal-mistakes-url] clone 해서, 미리 만든 repo에 clone한 프로젝트 내용물을 붙여 넣는다.
+
+### 1.2 [minimal-mistakes][minimal-mistakes-url] fork 하기
 
 - fork 하게 되면 Owner: 본인 아이디, Repository name: minimal-mistakes 로 fork 된다.
 - Repository name: username.github.io 로 수정한다.
