@@ -198,6 +198,6 @@ sidebar:
 - [[Github Blog, 깃허브 블로그] - 07. 상단바(nav), 사이드바(sidebar)에 맞추어 게시글 작성하기][github-blog-07]
 
 [github-blog-05]: https://feelincoding.github.io/github-blog/github-blog-05-nav/
-[github-blog-07]: https://feelincoding.github.io/github-blog/github-blog-06-sidebar/
+[github-blog-07]: https://feelincoding.github.io/github-blog/github-blog-07-posts/
 
 ### REFERENCE
