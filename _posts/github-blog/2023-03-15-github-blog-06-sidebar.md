@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Github Blog, 깃허브 블로그] - 05. 사이드바(sidebar) 만들기"
+title: "[Github Blog, 깃허브 블로그] - 06. 사이드바(sidebar) 만들기"
 date: "2023-03-15 00:01:00 +0900"
 last_modified_at: "2023-03-15 00:01:00 +0900"
 categories:
