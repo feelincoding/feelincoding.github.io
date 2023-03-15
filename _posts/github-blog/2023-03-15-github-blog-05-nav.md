@@ -170,6 +170,6 @@ toc_sticky: true
 - [[Github Blog, 깃허브 블로그] - 06. 사이드바(sidebar) 만들기][github-blog-06]
 
 [github-blog-04]: https://feelincoding.github.io/github-blog/github-blog-04-first-posts/
-[github-blog-06]: https://feelincoding.github.io/github-blog/github-blog-04-first-posts/
+[github-blog-06]: https://feelincoding.github.io/github-blog/github-blog-06-sidebar/
 
 ### REFERENCE
