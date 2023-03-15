@@ -91,6 +91,6 @@ tags:
 - [[Github Blog, 깃허브 블로그] - 08. 블로그 내의 검색, 댓글 기능(utterances) 추가해보기][github-blog-08]
 
 [github-blog-06]: https://feelincoding.github.io/github-blog/github-blog-06-sidebar/
-[github-blog-08]: https://feelincoding.github.io/github-blog/github-blog-06-sidebar/
+[github-blog-08]: https://feelincoding.github.io/github-blog/github-blog-08-search-comments/
 
 ### REFERENCE
