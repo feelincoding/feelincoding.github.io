@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "[Git Blog] - 03. minimal mistakes 기초"
+title: "[Github Blog, 깃허브 블로그] - 03. minimal mistakes 기초"
 date: "2023-03-14 00:00:00 +0900"
 last_modified_at: "2023-03-14 00:00:00 +0900"
 categories:
-  - git-blog
+  - github-blog
 tags:
-  - Git Blog
+  - Github Blog
 # toc_label: "목차"
 # toc: true
 # toc_sticky: true
@@ -16,7 +16,7 @@ tags:
 
 ## RECOMMEND POSTS BEFORE THIS
 
-- [[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
+- [[Github Blog, 깃허브 블로그] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][github-blog-02]
 
 ## 0. 들어가면서
 
@@ -109,9 +109,9 @@ defaults:
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 04. 첫 게시글 작성하기][git-blog-04]
+- [[Github Blog, 깃허브 블로그] - 04. 첫 게시글 작성하기][github-blog-04]
 
-[git-blog-02]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
-[git-blog-04]: https://feelincoding.github.io/git-blog/git-blog-04-first-posts/
+[github-blog-02]: https://feelincoding.github.io/github-blog/github-blog-02-create-github-io/
+[github-blog-04]: https://feelincoding.github.io/github-blog/github-blog-04-first-posts/
 
 ### REFERENCE

@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)"
+title: "[Github Blog, 깃허브 블로그] - 02. github.io 만들기 및 theme 적용(minimal mistakes)"
 date: "2023-03-13 00:01:00 +0900"
 last_modified_at: "2023-03-13 00:01:00 +0900"
 categories:
-  - git-blog
+  - github-blog
 tags:
-  - Git Blog
+  - Github Blog
 # toc_label: "목차"
 # toc: true
 # toc_sticky: true
@@ -16,7 +16,7 @@ tags:
 
 ## RECOMMEND BEFORE POSTS
 
-- [[Git Blog] - 01. 개발 환경 세팅 및 실행][git-blog-01]
+- [[Github Blog, 깃허브 블로그] - 01. 개발 환경 세팅 및 실행][github-blog-01]
 
 ## 0. 들어가면서
 
@@ -101,8 +101,8 @@ tags:
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 03. minimal mistakes 기초][git-blog-03]
+- [[Github Blog, 깃허브 블로그] - 03. minimal mistakes 기초][github-blog-03]
 
 [minimal-mistakes-url]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-[git-blog-01]: https://feelincoding.github.io/git-blog/git-blog-01-setting/
-[git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-03-minimal-mistake-basic/
+[github-blog-01]: https://feelincoding.github.io/github-blog/github-blog-01-setting/
+[github-blog-03]: https://feelincoding.github.io/github-blog/github-blog-03-minimal-mistake-basic/

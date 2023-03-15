@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "[Git Blog] - 01. 개발 환경 세팅 및 실행"
+title: "[Github Blog, 깃허브 블로그] - 01. 개발 환경 세팅 및 실행"
 date: "2023-03-13 00:00:00 +0900"
 last_modified_at: "2023-03-13 00:00:00 +0900"
 categories:
-  - git-blog
+  - github-blog
 tags:
-  - Git Blog
+  - Github Blog
   - Setting
 # toc_label: "목차"
 # toc: true
@@ -50,6 +50,6 @@ tags:
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][git-blog-02]
+- [[Github Blog, 깃허브 블로그] - 02. github.io 만들기 및 theme 적용(minimal mistakes)][github-blog-02]
 
-[git-blog-02]: https://feelincoding.github.io/git-blog/git-blog-02-create-github-io/
+[github-blog-02]: https://feelincoding.github.io/github-blog/github-blog-02-create-github-io/

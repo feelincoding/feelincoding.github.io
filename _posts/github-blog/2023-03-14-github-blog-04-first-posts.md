@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "[Git Blog] - 04. 첫 게시글 작성하기"
+title: "[Github Blog, 깃허브 블로그] - 04. 첫 게시글 작성하기"
 date: "2023-03-14 00:01:00 +0900"
 last_modified_at: "2023-03-14 00:01:00 +0900"
 categories:
-  - git-blog
+  - github-blog
 tags:
-  - Git Blog
+  - Github Blog
 # toc_label: "목차"
 # toc: true
 # toc_sticky: true
@@ -16,7 +16,7 @@ tags:
 
 ## RECOMMEND POSTS BEFORE THIS
 
-- [[Git Blog] - 03. minimal mistakes 기초][git-blog-03]
+- [[Github Blog, 깃허브 블로그] - 03. minimal mistakes 기초][github-blog-03]
 
 ## 0. 들어가면서
 
@@ -68,11 +68,11 @@ tags: # 태그
 
 ### 2.1 게시글 목록 확인
 
-![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-02.png)
+![](/images/github-blog/2023-03-14-github-blog-04-first-posts-img-02.png)
 
 ### 2.2 게시글 내용 확인
 
-![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png)
+![](/images/github-blog/2023-03-14-github-blog-04-first-posts-img-01.png)
 
 ## CLOSING
 
@@ -80,9 +80,9 @@ tags: # 태그
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 05. 상단바(nav) 만들기][git-blog-05]
+- [[Github Blog, 깃허브 블로그] - 05. 상단바(nav) 만들기][github-blog-05]
 
-[git-blog-03]: https://feelincoding.github.io/git-blog/git-blog-03-minimal-mistake-basic/
-[git-blog-05]: https://feelincoding.github.io/git-blog/git-blog-05-nav/
+[github-blog-03]: https://feelincoding.github.io/github-blog/github-blog-03-minimal-mistake-basic/
+[github-blog-05]: https://feelincoding.github.io/github-blog/github-blog-05-nav/
 
 ### REFERENCE

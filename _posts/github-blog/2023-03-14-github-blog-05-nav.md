@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "[Git Blog] - 05. 상단바(nav) 만들기"
+title: "[Github Blog, 깃허브 블로그] - 05. 상단바(nav) 만들기"
 date: "2023-03-15 00:00:00 +0900"
 last_modified_at: "2023-03-15 00:00:00 +0900"
 categories:
-  - git-blog
+  - github-blog
 tags:
-  - Git Blog
+  - Github Blog
 # toc_label: "목차"
 # toc: true
 # toc_sticky: true
@@ -16,7 +16,7 @@ tags:
 
 ## RECOMMEND POSTS BEFORE THIS
 
-- [[Git Blog] - 04. 첫 게시글 작성하기][git-blog-04]
+- [[Github Blog, 깃허브 블로그] - 04. 첫 게시글 작성하기][github-blog-04]
 
 ## 0. 들어가면서
 
@@ -67,11 +67,11 @@ tags: # 태그
 
 ### 2.1 게시글 목록 확인
 
-![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-02.png)
+![](/images/github-blog/2023-03-14-github-blog-04-first-posts-img-02.png)
 
 ### 2.2 게시글 내용 확인
 
-![](/images/git-blog/2023-03-14-git-blog-04-first-posts-img-01.png)
+![](/images/github-blog/2023-03-14-github-blog-04-first-posts-img-01.png)
 
 ## CLOSING
 
@@ -79,9 +79,9 @@ tags: # 태그
 
 ## RECOMMEND NEXT POSTS
 
-- [[Git Blog] - 06. 사이드바(sidebar) 만들기][git-blog-06]
+- [[Github Blog, 깃허브 블로그] - 06. 사이드바(sidebar) 만들기][github-blog-06]
 
-[git-blog-04]: https://feelincoding.github.io/git-blog/git-blog-04-first-posts/
-[git-blog-06]: https://feelincoding.github.io/git-blog/git-blog-04-first-posts/
+[github-blog-04]: https://feelincoding.github.io/github-blog/github-blog-04-first-posts/
+[github-blog-06]: https://feelincoding.github.io/github-blog/github-blog-04-first-posts/
 
 ### REFERENCE
