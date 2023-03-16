@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "feelincoding" # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ":mailbox: feelincoding@gmail.com" # "I am an **amazing** person."
+  bio              : "📧 feelincoding@gmail.com" # "I am an **amazing** person."
   location         : "Republic of Korea" # "Somewhere"
   email            :
   links:
