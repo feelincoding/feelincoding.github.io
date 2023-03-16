@@ -37,8 +37,16 @@ tags:
 
 ### 1.2 Mac
 
-- ruby 설치:
+- ruby 설치
+
+  - [ruby 공식문서](https://www.ruby-lang.org/ko/downloads/)를 살펴보면 brew나 rbenv를 이용해서 설치하는 방법이 있지만, 나는 brew를 기준으로 설명하겠다.
+  - brew 설치(깔려있으면 패스)
+    - [https://brew.sh/index_ko](https://brew.sh/index_ko) 에서 설치
   - brew install ruby
+    - .zshrc에 export PATH="/usr/local/opt/ruby/bin:$PATH" 추가
+    - source ~/.zshrc
+    - ruby -v, gem -v 명령어 입력으로 설치확인
+
 - jeykll, bundler 설치
   - gem install jekyll bundler
 
