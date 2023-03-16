@@ -87,6 +87,7 @@ lunr:
 > \_config.yml 파일을 열어서 아래와 같이 수정한다.
 
 ```yml
+provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
 utterances:
   theme: "github-dark" # "github-light" (default), "github-dark"
   issue_term: "pathname" # "pathname" (default)
