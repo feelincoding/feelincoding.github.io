@@ -111,11 +111,12 @@ utterances:
 
 ## CLOSING
 
-> 다음 게시글에서는 google search console, naver search advisor를 이용하여 내 블로그 글들을 검색엔진에 등록해보자.
+> ~~다음 게시글에서는 google search console, naver search advisor를 이용하여 내 블로그 글들을 검색엔진에 등록해보자.~~<br> > <br> 추가: 원래는 검색 엔진 등록과 구글 애드센스(google adsense) 등록에 관한 글을 올릴려고 했지만 아직 승인이 나지 않았다. <br> 그래서 다음 게시글은 **"giscus"**를 이용한 댓글 기능 추가에 관한 글을 올릴 예정이다.
 
 ## RECOMMEND NEXT POSTS
 
-- [[Github Blog, 깃허브 블로그] - 09. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-09]
+- [[Github Blog, 깃허브 블로그] - 09. giscus를 이용한 댓글 기능 추가, uttrrances 대체 및 
+<!-- - [[Github Blog, 깃허브 블로그] - 09. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-09] -->
 
 [github-blog-07]: https://feelincoding.github.io/github-blog/github-blog-07-posts/
 [github-blog-09]: https://feelincoding.github.io/github-blog/github-blog-07-posts/
