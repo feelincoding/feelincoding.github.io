@@ -46,7 +46,9 @@ tags:
 
 ## RECOMMEND NEXT POSTS
 
-> 없음
+- [[오픈매트] - 02. 요구사항 정의][openmat-02]
+
+[openmat-02]: https://feelincoding.github.io/project-openmat/project-openmat-02/
 
 ### REFERENCE
 
