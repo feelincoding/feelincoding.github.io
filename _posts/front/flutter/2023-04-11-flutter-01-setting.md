@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Flutter] - 01. Mac M1 환경에서 Flutter 설치하기, vscode 이용하기"
+title: "[Flutter] - 01. Mac M1 환경에서 Flutter 설치하기, vscode 세팅하기"
 date: "2023-04-11 00:00:00 +0900"
 last_modified_at: "2023-04-11 00:00:00 +0900"
 categories:
