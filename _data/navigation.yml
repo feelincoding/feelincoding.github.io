@@ -60,7 +60,7 @@ sidebar-category:
     # url: "/algorithm"
     category: "front"
     children:
-      - title: "- 오픈매트"
+      - title: "- Flutter"
         url: "/front/flutter"
         category: "front-flutter"
   # - title: "💾 Back"
