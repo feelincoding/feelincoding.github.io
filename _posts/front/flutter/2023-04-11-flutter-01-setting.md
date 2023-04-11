@@ -135,7 +135,7 @@ tags:
   - flutter plugin 설치
 - 하지만 우리는 vscode를 사용할 것이기 때문에 vscode에서 flutter를 사용할 수 있도록 설정할 것이다!
 
-### 4. flutter doctor
+## 4. flutter doctor
 
 > flutter doctor 입력해서 잘 설치 했는지 확인하자!<br>
 

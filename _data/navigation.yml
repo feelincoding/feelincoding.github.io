@@ -56,7 +56,7 @@ sidebar-category:
       - title: "- 오픈매트"
         url: "/project/openmat"
         category: "project-openmat"
-  - title: "🎨 Front💾"
+  - title: "🎨 Front"
     # url: "/algorithm"
     category: "front"
     children:
