@@ -56,3 +56,17 @@ sidebar-category:
       - title: "- 오픈매트"
         url: "/project/openmat"
         category: "project-openmat"
+  - title: "🎨 Front💾"
+    # url: "/algorithm"
+    category: "front"
+    children:
+      - title: "- 오픈매트"
+        url: "/front/flutter"
+        category: "front-flutter"
+  # - title: "💾 Back"
+  #   # url: "/algorithm"
+  #   category: "back"
+  #   children:
+  #     - title: "- 오픈매트"
+  #       url: "/back/flutter"
+  #       category: "back-flutter"
