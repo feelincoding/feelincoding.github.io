@@ -146,9 +146,15 @@ $ flutter doctor
 -> no issues found!
 ```
 
+## 5. vscode 세팅
+### 5.1 flutter extension 설치
+- Fluuuter extension을 설치한다.(Dart extension도 같이 설치된다.)
+  - [Flutter extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- cmd + shift + p를 눌러서 command palette를 열고 flutter: run flutter doctor를 입력하여 정상 동작을 확인한다.
+
 ## CLOSING
 
-> 없음
+> 개발환경 세팅은 다했으니 다음에는 flutter를 이용해 앱을 만들어보자!
 
 ## RECOMMEND NEXT POSTS
 
