@@ -157,10 +157,10 @@ tags:
 
 ## RECOMMEND NEXT POSTS
 
-- [[오픈매트] - 03. 예정입니다.][openmat-02]
+- [[오픈매트] - 03. 개발방법, 기술스택, 우선순위 정하기][openmat-03]
 
 [openmat-01]: https://feelincoding.github.io/project-openmat/project-openmat-01/
-[openmat-02]: https://feelincoding.github.io/project-openmat/project-openmat-02/
+[openmat-03]: https://feelincoding.github.io/project-openmat/project-openmat-03/
 
 ### REFERENCE
 
