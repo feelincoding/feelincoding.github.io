@@ -19,7 +19,7 @@ toc_sticky: true
 ## 자소서 02
 ## 자소서 03 -->
 
-## Hi there 👋 예시
+<!-- ## Hi there 👋 예시 -->
 
 <h1 align="center">Hi there 👋 </h1>
 
@@ -36,16 +36,17 @@ toc_sticky: true
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
+<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+
 </p>
 
 <h3 align="center">🤔 Recent Interest...<h3>
 <p align="center">
-<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp;
 <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
 <img alt="Go" src ="https://img.shields.io/badge/Go-00ACD7?style=flat-square&logo=go&logoColor=white"/>&nbsp;
 <img alt="AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>&nbsp;
