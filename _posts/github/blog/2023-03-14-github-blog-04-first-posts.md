@@ -82,7 +82,7 @@ tags: # 태그
 
 - [[Github Blog, 깃허브 블로그] - 05. 상단바(nav) 만들기][github-blog-05]
 
-[github-blog-03]: https://feelincoding.github.io/github-blog/github-blog-03-minimal-mistake-basic/
+[github-blog-03]: https://feelincoding.github.io/github-blog/github-blog-03-minimal-mistakes-basic/
 [github-blog-05]: https://feelincoding.github.io/github-blog/github-blog-05-nav/
 
 ### REFERENCE
