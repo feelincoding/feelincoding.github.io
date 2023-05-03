@@ -67,14 +67,30 @@ giscus:
   theme: "dark_dimmed"
 ```
 
+## 2. utterances 마이그레이션
+
+> utterances를 사용하던 댓글들을 giscus로 마이그레이션 해보자.<br>
+
+- utterances를 사용하던 댓글들은 github issue에 저장되어 있기 때문에 이를 giscus로 옮겨야 한다.
+- utterances를 사용하던 댓글들을 giscus로 옮기기 위해서는 모른다... 나는 노가다만 알고 있다 ㅠㅠ
+- `혹여라도 방법을 아시는 분은 댓글로 알려주시면 감사하겠습니다.`
+
+### 2.1 utterances 댓글 확인
+
+- repository의 issues에 들어가면 utterances를 사용하던 댓글들이 저장되어 있다.
+- 댓글을 클릭해보면
+- 우측 하단에 `Convert to discussion` 버튼이 있다.
+- 카테고리를 선택하고(아까 선택한 Announcements) `I understand, convert this issue.` 버튼을 클릭한다.
+- 그리고 포스트를 확인해보면 댓글이 옮겨진 것을 확인할 수 있다!!!
+
 ## CLOSING
 
-> ~~다음 게시글에서는 google search console, naver search advisor를 이용하여 내 블로그 글들을 검색엔진에 등록해보자.~~<br> > <br> 추가: 원래는 검색 엔진 등록과 구글 애드센스(google adsense) 등록에 관한 글을 올릴려고 했지만 아직 승인이 나지 않았다. <br> 그래서 다음 게시글은 **"giscus"**를 이용한 댓글 기능 추가에 관한 글을 올릴 예정이다.
+> 다음 게시글은 구글 에드센스 등록을 위한 구글 검색 엔진 등록 및 구글 검색 노출에 대해 알아보자! <br>
+> 기왕이면 네이버 검색 엔진 등록 및 네이버 검색 노출도 알아보자!
 
 ## RECOMMEND NEXT POSTS
 
 - [[예정입니다.][Github Blog, 깃허브 블로그] - 10. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-10]
-<!-- - [[Github Blog, 깃허브 블로그] - 09. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-09] -->
 
 [github-blog-08]: https://feelincoding.github.io/github-blog/github-blog-08-search-comments/
 [github-blog-10]: https://feelincoding.github.io/github-blog/github-blog-09-comments-giscus/
