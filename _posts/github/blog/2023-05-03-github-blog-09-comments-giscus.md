@@ -28,86 +28,44 @@ tags:
 
 ### 1.1 giscus 설치
 
-> \_config.yml 파일을 열어서 아래와 같이 수정한다.
+- [giscus install](https://github.com/apps/giscus) 에 접속하여 giscus를 install한다.
+- only select repositories를 선택하고, 기존 utterances를 사용하던 repository(깃허브 블로그)를 선택하고 install한다.
+
+### 1.2 giscus 설정
+
+- 깃허브 블로그 repository의 settings에 들어간다.
+- 및으로 내려 Discussions를 클릭한다.
+- [gistus settings](https://giscus.app/ko) 에 들어간다.
+- 저장소에 깃허브 블로그 repository 입력 한다. (ex) feelincoding/feelincoding.github.io)
+- 페이지와 Discussion을 연결할 방법을 선택하세요.
+  - `"Discussion 제목이 페이지 경로를 포함"`을 선택한다.
+- 새 Discussion이 만들어질 카테고리를 선택하세요.
+  - `"Announcements"`를 선택한다.
+- 특정 기능의 사용 여부를 선택하세요.
+  - `"메인 포스트에 반응 남기기"`를 선택한다.
+- 테마
+  - `"Github Dark Dimmed"`를 선택한다.
+- giscus 사용 부분을 확인하면 아래와 같은 사진이 나온다.
+
+  ***
+
+  ![](/images/github-blog/2023-05-03-github-blog-09-comments-giscus-img-01.png)
+
+  ***
+
+  - 이 화면을 바탕으로 \_config.yml을 수정한다.
+
+### 1.3 \_config.yml 수정
 
 ```yml
-search: true # true, false (default)
-search_full_content: true # true, false (default)
-search_provider: lunr # lunr (default), algolia, google
-lunr:
-  search_within_pages: # true, false (default)
+giscus:
+  repo_id: "R_kgDOJJpaZw"
+  category_name: "Announcements"
+  category_id: "DIC_kwDOJJpaZ84CWObE"
+  discussion_term: "pathname"
+  reactions_enabled: "1"
+  theme: "dark_dimmed"
 ```
-
-### 1.2 검색 결과 확인
-
-> 이것으로 검색 기능이 추가 되었다. 결과는 아래와 같다.
-
-- 상단바에 검색 아이콘이 생겼다.
-
-  ***
-
-  ![](/images/github-blog/2023-03-15-github-blog-08-search-comments-img-01.png)
-
-  ***
-
-- 검색 아이콘을 누르고 검색을 해보자.
-
-  ***
-
-  ![](/images/github-blog/2023-03-15-github-blog-08-search-comments-img-02.png)
-
-  ***
-
-## 2. 댓글 기능
-
-> utterances를 이용하여 댓글 기능을 추가해보자.
-
-### 2.1 utterances Install
-
-- https://github.com/apps/utterances 에 접속하여 utterances를 install한다.
-- only select repositories를 선택하고, 깃허브 블로그 저장소를 선택한다.
-
-  ***
-
-  ![](/images/github-blog/2023-03-15-github-blog-08-search-comments-img-03.png)
-
-  ***
-
-- Install을 완료한 후 나타나는 페이지의 repo에 feelincoding/feelincoding.github.io를 적는다
-- Issue title contains page pathname를 체크한다.
-- label은 따로 설정하지 않는다.
-- Theme은 원하는 테마를 선택한다.
-- Enable Utterances를 복사 해놓는다.
-  - \_config.yml을 이용해 댓글 기능을 활성화할 것이다.
-  - 하지만 안들어가는 부분이 있어서 따로 넣기 위해 복사한다.
-    - e.g) about.md 파일에 댓글 기능을 넣고 싶다면, about.md 파일의 맨 위에 복사한 코드를 붙여넣는다.
-
-### 2.2 \_config.yml 수정
-
-> \_config.yml 파일을 열어서 아래와 같이 수정한다.
-
-```yml
-provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-utterances:
-  theme: "github-dark" # "github-light" (default), "github-dark"
-  issue_term: "pathname" # "pathname" (default)
-```
-
-- 이제 확인해보자!!
-
-### 2.3 댓글 기능 확인
-
-#### 2.3.1 posts에 댓글 기능 확인
-
----
-
-![](/images/github-blog/2023-03-15-github-blog-08-search-comments-img-04.png)
-
----
-
-#### 2.3.2 about.md에 댓글 기능 확인
-
-> 최 하단에 코드를 붙여 넣었다면, 댓글 기능이 추가된 것을 확인할 수 있다.
 
 ## CLOSING
 
