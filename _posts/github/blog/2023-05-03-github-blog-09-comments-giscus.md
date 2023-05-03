@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "[Github Blog, 깃허브 블로그] - 08. 블로그 내의 검색, 댓글 기능(utterances) 추가해보기"
-date: "2023-03-15 00:03:00 +0900"
-last_modified_at: "2023-03-15 00:03:00 +0900"
+title: "[Github Blog, 깃허브 블로그] - 09. 댓글 기능(giscus)로 변경 및 utterances에서 마이그레이션 하기"
+date: "2023-05-03 00:02:00 +0900"
+last_modified_at: "2023-05-03 00:02:00 +0900"
 categories:
   - github-blog
 tags:
@@ -16,17 +16,17 @@ tags:
 
 ## RECOMMEND BEFORE POSTS
 
-- [[Github Blog, 깃허브 블로그] - 07. 상단바(nav), 사이드바(sidebar)에 맞추어 게시글 작성하기][github-blog-07]
+- [[Github Blog, 깃허브 블로그] - 08. 블로그 내의 검색, 댓글 기능(utterances) 추가해보기][github-blog-08]
 
 ## 0. 들어가면서
 
-> 이제 게시글 까지는 문제 없다! <br> 게시글이 쌓일수록 블로그 내에서의 검색과 소통을 위한 댓글이 필요하지 않을까 싶다. <br> 이번 포스팅에서는 블로그 내에서의 검색과 댓글 기능을 추가해보자.
+> 댓글기능을 구현해보았지만 더 이쁜걸 찾았다! <br> utterances를 giscus로 변경하고 기존 것을 마이그레이션 해보자!!
 
-## 1. 검색 기능
+## 1. giscus로 변경하기
 
-> minimal mistakes에서는 기본적으로 검색 기능을 제공한다. <br> 제공 기능을 활용해보자.
+> giscus는 utterances와 비슷한 기능을 제공한다. <br> utterances는 github issue를 이용하여 댓글을 관리하는 반면, giscus는 github discussion을 이용하여 댓글을 관리한다. <br> 댓글을 관리하는 방식이 다르기 때문에 기존 utterances를 사용하던 것을 마이그레이션 해야한다.
 
-### 1.1 \_config.yml 수정
+### 1.1 giscus 설치
 
 > \_config.yml 파일을 열어서 아래와 같이 수정한다.
 
@@ -115,10 +115,10 @@ utterances:
 
 ## RECOMMEND NEXT POSTS
 
-- [[Github Blog, 깃허브 블로그] - 09. 댓글 기능(giscus)로 변경 및 utterances에서 마이그레이션 하기][github-blog-09]
+- [[예정입니다.][Github Blog, 깃허브 블로그] - 10. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-10]
 <!-- - [[Github Blog, 깃허브 블로그] - 09. 구글(네이버) 검색 엔진 등록, 구글(네이버) 검색 노출, google search console, naver search advisor][github-blog-09] -->
 
-[github-blog-07]: https://feelincoding.github.io/github-blog/github-blog-07-posts/
-[github-blog-09]: https://feelincoding.github.io/github-blog/github-blog-09-comments-giscus/
+[github-blog-08]: https://feelincoding.github.io/github-blog/github-blog-08-search-comments/
+[github-blog-10]: https://feelincoding.github.io/github-blog/github-blog-09-comments-giscus/
 
 ### REFERENCE
