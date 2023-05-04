@@ -63,10 +63,10 @@ sidebar-category:
       - title: "- Flutter"
         url: "/front/flutter"
         category: "front-flutter"
-  # - title: "💾 Back"
-  #   # url: "/algorithm"
-  #   category: "back"
-  #   children:
-  #     - title: "- 오픈매트"
-  #       url: "/back/flutter"
-  #       category: "back-flutter"
+  - title: "💾 Back"
+    # url: "/algorithm"
+    category: "back"
+    children:
+      - title: "- DB"
+        url: "/back/db"
+        category: "back-db"
