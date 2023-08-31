@@ -70,3 +70,10 @@ sidebar-category:
       - title: "- DB"
         url: "/back/db"
         category: "back-db"
+  - title: "🧪 ETC"
+    # url: "/algorithm"
+    category: "etc"
+    children:
+      - title: "- Study"
+        url: "/etc/study"
+        category: "etc-study"
